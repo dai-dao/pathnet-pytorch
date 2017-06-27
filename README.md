@@ -1,6 +1,4 @@
-PathNet implementation in Pytorch [Paper](https://arxiv.org/abs/1701.08734)
-
-Inspired by [kimhc6028](https://github.com/kimhc6028/pathnet-pytorch)'s implementation
+PathNet implementation in Pytorch [Paper](https://arxiv.org/abs/1701.08734). Inspired by [kimhc6028](https://github.com/kimhc6028/pathnet-pytorch)'s implementation
 
 Currently implemented binary MNIST classification task
 
